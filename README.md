@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
