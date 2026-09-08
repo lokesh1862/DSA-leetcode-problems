@@ -24,4 +24,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0115-distinct-subsequences/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
