@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -42,4 +44,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
