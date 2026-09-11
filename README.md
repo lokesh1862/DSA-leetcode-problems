@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -29,4 +30,16 @@
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
