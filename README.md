@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +53,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
