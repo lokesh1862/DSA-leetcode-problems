@@ -24,6 +24,7 @@
 | [0567-permutation-in-string](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,11 +60,13 @@
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/lokesh1862/DSA-leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
