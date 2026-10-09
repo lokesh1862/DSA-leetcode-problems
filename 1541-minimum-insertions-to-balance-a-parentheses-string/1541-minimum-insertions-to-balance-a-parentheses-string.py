@@ -1,0 +1,22 @@
+class Solution(object):
+    def minInsertions(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        res = 0
+        need = 0
+
+        for c in s:
+            if c == '(':
+                if need % 2 == 1:
+                    res += 1
+                    need -= 1
+                need += 2
+            else:
+                need -= 1
+                if need < 0:
+                    res += 1
+                    need = 1
+
+        return res + need
